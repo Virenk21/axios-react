@@ -1,8 +1,13 @@
 import Title from "./components/Title";
-function App() {
-  return (
+import Setup from './examples/1-first-request';
+  
+function App () {
+return (
     <main>
       <Title />
+      
+      <Setup/>
+
     </main>
   );
 }
