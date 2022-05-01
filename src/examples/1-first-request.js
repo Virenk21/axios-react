@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import axios from 'axios'; 
 
-const url = "https://random-data-api.com/api/omniauth/linkedin_get";
+const url = "https://course-api.com/react-store-products";
 
 const FirstRequest = () => {
     const fetchData = async () => {
