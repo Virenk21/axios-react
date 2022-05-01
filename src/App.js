@@ -1,10 +1,9 @@
-import './App.css';
-
+import Title from "./components/Title";
 function App() {
   return (
-    <div>
-      <h1>VIREN</h1>
-    </div>
+    <main>
+      <Title />
+    </main>
   );
 }
 
